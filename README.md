@@ -4,7 +4,6 @@ This portfolio serves as a vehicle to share various goals I have reached and var
 ## Hi There!
 I am Manmitha *(she, her, hers)*, currently Pursuing Master's in Healthcare Analytics and IT at Heinz College, Carnegie Mellon University. Coming into graduate school with an undergraduate degree in Biomedical Engineering and experience in big pharma, I have always been at the intersection of technology and various aspects of healthcare. While my undergraduate degree served as my first inspiration for the elaborate use of information modelling in healthcare, it was my professional experience which enhanced my view of revolutionizing healthcare through technology services. During my time at Carnegie Mellon University, I honed skills in Optimization and Process Modelling in addition to various technical skills like Python, R, SQL to be an asset to the field of Healthcare Technology.
 # What I hope to learn
-As part of this course, I hope to achieve the following:
 - to understand the best practices of visualizations which can help me build a story
 - to learn how to engage audience with the power of visualization
 - to learn to accept, provide and work on constructive criticism of visualizations
