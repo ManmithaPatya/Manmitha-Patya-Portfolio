@@ -1,4 +1,4 @@
-This portfolio serves as a vehicle to share various goals I have reached and various goals I have set for myself during my time at Carnegie Mellon University. The story and goals shared here is specific to my 'Telling Stories with Data' course that I took up in Spring 2022. Here, I had a change to deconstruct and recontruct various visualizations which helped me develop an impoved sense for data visualizations. 
+This portfolio serves as a vehicle to share various goals I have reached and various goals I have set for myself during my time at Carnegie Mellon University. The story and goals shared here are specific to my 'Telling Stories with Data' course that I took up in Spring 2022. Here, I had a change to deconstruct and recontruct various visualizations which helped me develop an impoved sense for data visualizations. 
 # About Me
 <img src="https://media-exp1.licdn.com/dms/image/C5603AQHM-JgUxJ1ffA/profile-displayphoto-shrink_800_800/0/1628886236172?e=1648684800&v=beta&t=bW0Rm1qjz-RAbXn3VtPfSMRDAFVdH7zBgpM5d9PewbA" width="240">
 ## Hi There!
