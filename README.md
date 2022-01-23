@@ -11,6 +11,6 @@ As part of this course, I hope to achieve the following:
 -to improve cosmetics behind the visualizations
 # Portfolio
 The following is a showcase of the various projects I undertook during my Telling Stories with Data course.
-# Project 1
-# Project 2
-# Final Project
+## Project 1
+## Project 2
+## Final Project
