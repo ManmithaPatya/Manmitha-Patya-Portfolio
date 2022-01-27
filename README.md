@@ -12,7 +12,7 @@ As part of this course, I hope to achieve the following:
 - to improve cosmetics behind the visualizations
 # Portfolio
 The following is a showcase of the various Visualization Exercises and Projects I undertook during my Telling Stories with Data course.
-## Data Visualization Exercise 1: Visualizing government debt
+## [Data Visualization Exercise 1: Visualizing government debt](https://github.com/ManmithaPatya/ManmithaPatya-Portfolio/blob/a069ea2238fef8c381539de96724eacfc6dcda7e/OECD_Visualization.md)
 For the visualizations here, I used the datasets available on the Organization for Economic Co-operation and Development (OECD) website. This website has easy to use publicly availbale data.
 This exercise consists of three parts as follows:
 - Web based Visualization as generated on the OECD Website
