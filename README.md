@@ -11,7 +11,8 @@ As part of this course, I hope to achieve the following:
 - to learn how to add emphasis and deemphasis to various parts of a visualization so that the important aspects shine through
 - to improve cosmetics behind the visualizations
 # Portfolio
-The following is a showcase of the various projects I undertook during my Telling Stories with Data course.
-## Project 1
+The following is a showcase of the various Visualization Exercises and Projects I undertook during my Telling Stories with Data course.
+## Data Visualization Exercise 1: Visualizing government debt
+The Organization for Economic Co-operation and Development (OECD) has a lot of interesting, easy to use and downloadable datasets, and also includes a tool that allows you a way to embed interactive visualizations directly from their website.  A number of web-based tools allow you to create data visualizations directly and then embed them separately, so the first part of this assignment will involve taking the code for the generated visualization you've customized and placing it on your own portfolio page.  
 ## Project 2
 ## Final Project
