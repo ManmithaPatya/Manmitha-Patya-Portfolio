@@ -9,5 +9,7 @@ The following is a grid of line type visualization which indicates the Debt-to-G
 <div class="flourish-embed flourish-chart" data-src="visualisation/8534698"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The following visualization is a bubble chart which can be filtered by location and includes a time slider for the year. With this, we can look at the changes in Debt-to-GDP Ratio over years for each individual location.
-Hit the play button for the visualization!
+
+Hit the play button, choose a location and observe the progression!
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8541967"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Comparing the grid of line type visualization and the bubble chart viusalization,the grid of line type visualization gives us no comparative analysis between countries across the years. It is a static plot. The bubble chart viusalization on the other hand  allows us to filter by country while progressing through various years to track the changes in the Debt-to-GDP Ratio. The insights obtained in each of the visualuzations are different and from a data visualization standpoint focused on insights,the bubble chart viusalization is more effective and provides more insights.
