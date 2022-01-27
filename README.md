@@ -13,6 +13,9 @@ As part of this course, I hope to achieve the following:
 # Portfolio
 The following is a showcase of the various Visualization Exercises and Projects I undertook during my Telling Stories with Data course.
 ## Data Visualization Exercise 1: Visualizing government debt
-The Organization for Economic Co-operation and Development (OECD) has a lot of interesting, easy to use and downloadable datasets, and also includes a tool that allows you a way to embed interactive visualizations directly from their website.  A number of web-based tools allow you to create data visualizations directly and then embed them separately, so the first part of this assignment will involve taking the code for the generated visualization you've customized and placing it on your own portfolio page.  
+For the visualizations here, I used the datasets available on the Organization for Economic Co-operation and Development (OECD) website. This website has easy to use publicly availbale data.
+This exercise consists of three parts as follows:
+- Web based Visualization as generated on the OECD Website
+- Visualizations generated on flourish
 ## Project 2
 ## Final Project
