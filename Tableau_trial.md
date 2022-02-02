@@ -3,8 +3,10 @@
     <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Cleaned_Data&#47;Sheet12' />
     <param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
-    <script type='text/javascript'>                    
+    <param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' />
+  </object>
+</div>                
+<script type='text/javascript'>                    
   var divElement = document.getElementById('viz1643829695294');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
