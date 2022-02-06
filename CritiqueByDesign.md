@@ -18,6 +18,11 @@ The following is the visualization:
 <img src="https://cdn.howmuch.net/articles/men-vs-women-comparing-income-by-industry-5134.jpg">
 
 ## 2.2 Step two: Critique the visualization
+While the visualization is interesting in it's choice of graphic, it is inconvenient to some extent. The presence of a scale for various buckets of earning combined with sub-segments in combination with the wages and the industry makes it difficult to efficiently draw timely conclusions. 
+
+In order to critique this visualization, I chose to use the 'Data Visualization Effectiveness Profile'. Here, I will evaluate it across seven criteria: Usefulness, Completeness, Perceptability, Truthfulness, Intuitiveness, Aesthetics and Engagement. 
+
+
 ## 2.3 Step three: Wireframe a solution
 ## 2.4 Step four: Test the solution
 ## 2.5 Step five: Build your solution
