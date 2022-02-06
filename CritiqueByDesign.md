@@ -23,8 +23,10 @@ While the visualization is interesting in it's choice of graphic, it is inconven
 In order to critique this visualization, I chose to use the 'Data Visualization Effectiveness Profile'. Here, I will evaluate it across seven criteria: *Usefulness, Completeness, Perceptability, Truthfulness, Intuitiveness, Aesthetics and Engagement*. 
 
 **Usefulness**
+Usefulness is determined based in the needs of the audience and is measured on a scale from Useless to Very useful. It is very important to understand the wage gap that exixts between genders and hence, it is important to represent this information in a way in which everyone can understand it. However, in this visual, it would have been useful to show the number of people in the market separated by gender. This  will then start a conversation about causes that drive wage gap based on the industry. The visual is focused on civilian Employed Population who are 16+ years of age. The plot does not differentiate between those who are full-time employees and thsoe who are part-time employees. We should also consider the fact that a few of the participants are student who are working part-time. Maternity can be a cause for women to be out of the job market for a while which can skew data. Hence, adding some more relevant information would have increased the usefulness of the visual. 
 
 **Completeness**
+Completeness is determined based on the extent to which information represented helps produce the right amount of understanding. It is measured on a scale from No relevant data to all relevant data. The visualization here provides no information about the number of people in a particular industry even though it's a focal point of the article and the data set. It would be useful to also provide some information about full-time and part-time employees. The use of a spherical graphic is a good way of enuring that visually, the gender gap between and women is not missed.   
 
 **Perceptability**
 
