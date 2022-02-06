@@ -20,7 +20,7 @@ The following is the visualization:
 ## 2.2 Step two: Critique the visualization
 While the visualization is interesting in it's choice of graphic, it is inconvenient to some extent. The presence of a scale for various buckets of earning combined with sub-segments in combination with the wages and the industry makes it difficult to efficiently draw timely conclusions. 
 
-In order to critique this visualization, I chose to use the 'Data Visualization Effectiveness Profile'. Here, I will evaluate it across seven criteria: Usefulness, Completeness, Perceptability, Truthfulness, Intuitiveness, Aesthetics and Engagement. 
+In order to critique this visualization, I chose to use the 'Data Visualization Effectiveness Profile'. Here, I will evaluate it across seven criteria: *Usefulness, Completeness, Perceptability, Truthfulness, Intuitiveness, Aesthetics and Engagement*. 
 
 **Usefulness**
 
