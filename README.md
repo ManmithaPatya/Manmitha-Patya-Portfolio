@@ -18,5 +18,5 @@ This exercise consists of three parts as follows:
 - [Web based visualization as generated on the OECD website](https://manmithapatya.github.io/ManmithaPatya-Portfolio/OECD_Visualization.html#web-based-visualization-as-generated-on-the-oecd-website)
 - [Visualizations generated on flourish](https://manmithapatya.github.io/ManmithaPatya-Portfolio/OECD_Visualization.html#2-visualizations-built-on-flourish)
 ## [Critique by Design](CritiqueByDesign.md)
-The 'Critique by Design' assignnet of this course refers to the second critique assignment and the second data visualization assignment. 
+The 'Critique by Design' assignment of this course refers to the **second critique assignment** and the **second data visualization assignment**. 
 ## Final Project
