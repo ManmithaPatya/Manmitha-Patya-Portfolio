@@ -22,6 +22,19 @@ While the visualization is interesting in it's choice of graphic, it is inconven
 
 In order to critique this visualization, I chose to use the 'Data Visualization Effectiveness Profile'. Here, I will evaluate it across seven criteria: Usefulness, Completeness, Perceptability, Truthfulness, Intuitiveness, Aesthetics and Engagement. 
 
+**Usefulness**
+
+**Completeness**
+
+**Perceptability**
+
+**Truthfulness**
+
+**Intuitiveness**
+
+**Aesthetics**
+
+**Engagement**
 
 ## 2.3 Step three: Wireframe a solution
 ## 2.4 Step four: Test the solution
