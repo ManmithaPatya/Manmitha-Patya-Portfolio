@@ -35,9 +35,10 @@ Perceptability is measured based on the ease with with the information and the g
 Truthfulness talks about the accuracy and the validity of the data. It is measured on a scale from Inaccurate and/or invalid to Accurate and valid. The date here is represented on sub-segments of sections of a pie. This means that the areas of each subsection will not be the same. Hence, the representation on the graphic is not accurately related to the amount of wage that is being represented. In addition to this, we can see on the lower right hand corner that each sub-segment represente increments of $10,000. However, the last sub-segment represents the data in an increment of $20,000. This makes me question the accuracy of the representation and the justice it does to the actual data. 
 
 **Intuitiveness**
-Intuitiveness talks about the degree to which the visualization is familiar and easy to understand. It is represented on a scale from Unfamiliar; difficult to understand to Familiar; easy to understand.
+Intuitiveness talks about the degree to which the visualization is familiar and easy to understand. It is represented on a scale from Unfamiliar; difficult to understand to Familiar; easy to understand. Based on conventions of data representations, those viewing the graphic might overlook the non-uniformity in the sub-segment size and the scale. This can lead to wrong intuitiveness and thus wrong conclusions. 
 
 **Aesthetics**
+
 
 **Engagement**
 
