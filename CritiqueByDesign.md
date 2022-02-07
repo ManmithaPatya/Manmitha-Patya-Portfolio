@@ -1,5 +1,5 @@
 # Critique by Design (Data Visualization Exercise 2 and  Critique Assignment 2)
-## check4
+## check5
 For the completion of this assignment, I followed **five** key steps as listed below. Each step has been elaborated upon in the subsequent sections. 
 - [Step one: Find a data visualization with data that can be used](#Step-one:-Find-a-data-visualization-with-data-that-can-be-used)
 - [Step two: Critique the visualization](#-Step-two:-Critique-the-visualization)
