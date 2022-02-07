@@ -44,6 +44,10 @@ Aesthetics range from Ugly to Pleasing to the eye to Beautiful. The use of color
 Engagement is focused on overall quality. It ranges from Distracts from data to Neutral to Draws one into the data. In this visualization, the additional footers and the two legends serve as distractions from the graphic. The graphic itself leaves us with a few unanswered questions. Emphasis should also be on one industry vs other industries or national median wage vs the wage within an industry. The graphic tries to provide too much information while at the same time not providing much. 
 
 ## 2.3 Step three: Wireframe a solution
+I used [figma](https://www.figma.com/files/recent?fuid=1072321393156381394) in order to think through my redesign. Since my data has 20 categories (the industries) and three data series (Th median wage of men, the median wage of women and the median wage across the population), I decided to use a combination of bar plot and line plot. Thr bar plots will be grouped by the wage of men and women for each industry and the line plot will hold the value of the median wage of the overall population.
+
+My wireframe generated on figma can be viewed below:
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQu4xRqgLiZ5vgAsriBdFpN%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 ## 2.4 Step four: Test the solution
 ## 2.5 Step five: Build your solution
