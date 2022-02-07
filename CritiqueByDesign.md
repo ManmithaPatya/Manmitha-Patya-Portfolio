@@ -54,6 +54,7 @@ In order to test the solution, I showed the wired frame to three individuals (a 
 ### Can you tell me what you think this is?
 1. "It is the representation of the median wage by gender and industry."
 2. "It is wages across those industries and is shown by gender and showcases the disparity in pay."
+
 ### Can you describe to me what this is telling you?
 1. "When I see the wireframe, I get the idea of how you want to represent the data visualization and you have explained how each part is going to show some aspect of the data. In terms of insight, I get that in general, the median wage of men is higher than the median wage of women and since you have represented a sample of 3 industries, I would flag that."
 2. "It is showing the disparity, but I don't understand the black curve. There is a general trend I can identify that woman are paid less"
