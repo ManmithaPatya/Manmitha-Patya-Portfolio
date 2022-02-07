@@ -57,36 +57,43 @@ In order to test the solution, I showed the wired frame to three individuals (a 
 
 ### Is there anything you find surprising or confusing?
 
-### Is there anything else you would expect to see so that the takeawys are more clear to you?
+### Is there anything else you would expect to see so that the takeaways are clearer to you?
 
 ### Who do you think is the intended audience for this?
 
 ### Is there anything you would change or do differently?
 
 ## 2.5 Step five: Build your solution
-The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It hepled me gauge what worked and ehanced it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that fancy visualizations don't often work. They can be cluttered and can at times complicate data which can easily be represented by simple graphs with no ambiguity. 
+The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It helped me gauge what worked and enhanced it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that fancy visualizations don't often work. They can be cluttered and can at times complicate data which can easily be represented by simple graphs with no ambiguity. 
 
 This assignment aligned my thoughts not just in visual presentation but also in terms of how correct data representation is key. (I had to do quite a bit of data cleaning and data aggregation of over 5 years of data to make this work!)
 
 In order to get the data ready, I did the following:
 - Removed the subcategorization of the industries so that each industry is stand-alone and is not grouped under any other category
-- Renamed all the industries to keep them consitent and to ensure that all of them fit in the visual
+- Renamed all the industries to keep them consistent and to ensure that all of them fit in the visual
 - Removed unwanted data such as 'error margin'
-- Reordered the indductries so that they are in ascending order of name
+- Reordered the industries so that they are in ascending order of name
 - Shifted the category 'Other Services' to the end to follow good visualization practice
 
-In this first visual, I worked off of my wireframe to build a visualization using the 'Combo: Lines & columns (grouped)' as my graphic as choice. The bars represent the series data- median wage of women and the median wage of men. The line representation is used for the overall median wage of the population. The x-axis contains each of the twenty industries. I reperesented the median wage is dollars only on the y-axis so that it is not repeated multiple times. I tested the coolors used againt the most common color blinesses [here](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that they were color blind friendly.
+In this first visual, I worked off my wireframe to build a visualization using the 'Combo: Lines & columns (grouped)' as my graphic as choice. The bars represent the series data- median wage of women and the median wage of men. The line representation is used for the overall median wage of the population. The x-axis contains each of the twenty industries. I represented the median wage is dollars only on the y-axis so that it is not repeated multiple times. I tested the colors used against the most common color blindness [here](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that they were color blind friendly.
 
 The visualization is as follows:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8629282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In my critique section, I mentioned the imporatance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the US Census website and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
+In my critique section, I mentioned the importance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the US Census website and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
 
-Once the data was cleaned, I represented the data using 'Bar chart (grouped)' visualization via 'Grid of Charts'. Here, I split the grids according to gender and we can now see a side-by-side view of the changes in wage through the years for the two genders across industries. As in the previously developed visual, wage ($) is represented only once on the x-axis so that it is not repeated multiple times and the industies are arranged in alphabelic order with 'Other Services' at the end.
+Once the data was cleaned, I represented the data using 'Bar chart (grouped)' visualization via 'Grid of Charts'. Here, I split the grids according to gender and we can now see a side-by-side view of the changes in wage through the years for the two genders across industries. As in the previously developed visual, wage ($) is represented only once on the x-axis so that it is not repeated multiple times and the industries are arranged in alphabetical order with 'Other Services' at the end.
 
 Using the control, we can either hit play to look at the changes through the years or we can look at the difference in wages in any particular year.
 
 The visualization is as follows (Hit Play and look at the trends!):
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8628881"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Further Development
+In this section, I would like to discuss additions I would have liked to make to the two plots I developed so that they are more informative without being cluttered. They would have been possible if I has access to specific data which I was unable to find. The reason I did not make this data for the visualization is that I used real-world data and I did not want to use that with a mix of made-up data.  
+
+The first addition I would have liked to make is to add a filter to the plots to also visualize the median wages as divided between part-time and full-time employees. It will be very interesting to see how the data skew (if any) shifts in that case.  
+
+The second enhancement I would like to see is to my second plot where, in addition to seeing the trends through the years, I would also like to see represented on the graphic the percentage by which men earn more than women. This was already calculated by me in the dataset. However, due to the limitations of flourish, I was unable to incorporated it without changing the individual x-axis which would not constitute the principles of good visualization practices.
