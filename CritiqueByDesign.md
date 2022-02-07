@@ -53,20 +53,26 @@ My wireframe generated on figma can be viewed below (for 2019 data):
 In order to test the solution, I showed the wired frame to three individuals (a Heinz student, a Tepper student and a student at Mellon College).
 ### Can you tell me what you think this is?
 1. "It is the representation of the median wage by gender and industry."
+2. "It is wages across those industries and is shown by gender ans showcases the disparity in pay."
 ### Can you describe to me what this is telling you?
 1. "When I see the wireframe, I get the idea of how you want to represent the data visualization and you have explained how each part is going to show some aspect of the data. In terms of insight, I get that in general, the median wage of men is higher than the median wage of women and since you have represented a sample of 3 industries, I would flag that."
+2. "It is showing the diaprity but I don't undertand the black curve. There is a general trend I can indentify that women are paid less"
 
 ### Is there anything you find surprising or confusing?
-1. "At first glance, I was unsure what the black line is but once I read the associated test, I understood what it represents."
+1. "At first glance, I was unsure what the black curve is but once I read the associated test, I understood what it represents."
+2. "I don't understand the black cruve and the uagse of industries of the x-axis is not clear to me"
 
 ### Is there anything else you would expect to see so that the takeaways are clearer to you?
 1. "I would like to know what country this is based on."
+2. "I would try representing the x-axis by a number of those employed in a particular industry instead of having a categorical label"
 
 ### Who do you think is the intended audience for this?
 1. "People looking for proof of wage inequality based on gender, and economists."
+2. "Law makers and those in academia and poicy makers."
 
 ### Is there anything you would change or do differently?
 1. "I would probably provide a few examples of industries."
+2. "I don't understand the filter nas would make sure even the bars are the same thickness in the wireframe so that nothing is misinterpreted."
 
 ## 2.5 Step five: Build your solution
 The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It helped me gauge what worked and enhanced it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that fancy visualizations don't often work. They can be cluttered and can at times complicate data which can easily be represented by simple graphs with no ambiguity. 
