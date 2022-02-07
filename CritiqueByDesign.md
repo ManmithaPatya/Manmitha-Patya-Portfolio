@@ -51,3 +51,7 @@ My wireframe generated on figma can be viewed below (for 2019 data):
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQu4xRqgLiZ5vgAsriBdFpN%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 ## 2.4 Step four: Test the solution
 ## 2.5 Step five: Build your solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8629282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8628881"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
