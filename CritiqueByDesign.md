@@ -93,7 +93,7 @@ In this first visual, I worked off my wireframe to build a visualization using t
 
 The visualization is as follows:
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8629282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/8635848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 In my critique section, I mentioned the importance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the US Census website and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
 
