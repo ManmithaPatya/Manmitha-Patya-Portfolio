@@ -50,7 +50,29 @@ My wireframe generated on figma can be viewed below (for 2019 data):
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQu4xRqgLiZ5vgAsriBdFpN%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 ## 2.4 Step four: Test the solution
+In order to test the solution, I showed the wired frame to three individuals (a Heinz student, a Tepper student and a student at Mellon college).
+### Can you tell me what you think this is?
+
+### Can you describe to me what this is telling you?
+
+### Is there anything you find surprising or confusing?
+
+### Is there anything else you would expect to see so that the takeawys are more clear to you?
+
+### Who do you think is the intended audience for this?
+
+### Is there anything you would change or do differently?
+
 ## 2.5 Step five: Build your solution
+The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It hepled me gauge what worked and ehanced it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that, fancy visualizations don't often work. They can be cluttered and can at times complicate data which can be represented by simple graphs with no ambiguity. 
+This assignment aligned my thoughts not just in visual presentation but also in terms of how correct data representation is key. (I had to do quite a bit of data cleaning and data aggregation of over 5 years of data to make this work!)
+In this first visual, I worked off of my wireframe to build a visualization using the 'Combo: Lines & columns (grouped)' as my graphic as choice. The bars represent the series data- median wage of women and the median wage of men. The line representation is used for the overall median wage of the population. The x-axis contains each of the twenty industries. 
+In order to get the data ready, I did the following:
+- Removed the subcategorization of the industries so that each industry is stand-alone and is not grouped under any other category
+- Renamed all the industries to keep them consitent and to ensure that all of them fit in the visual
+- Removed unwanted data such as 'error margin'
+- Reordered the indductries so that they are in ascending order of name
+- Shifted the category 'Other Services' to the end to follow good visualization practice
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8629282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
