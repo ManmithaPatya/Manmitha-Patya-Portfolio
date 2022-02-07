@@ -55,12 +55,12 @@ In order to test the solution, I showed the wired frame to three individuals (a 
 ### Can you tell me what you think this is?
 1. "It is the representation of the median wage by gender and industry."
 2. "It is wages across those industries and is shown by gender and showcases the disparity in pay."
-3. "Just from looking at the wireframe, I can tell that it is comparing men and womens wages but is in context of the overall population's median wage across various industries."
+3. "Just from looking at the wireframe, I can tell that it is comparing men and women's wage and is in the context of the overall population's median wage across various industries."
 
 ### Can you describe to me what this is telling you?
 1. "When I see the wireframe, I get the idea of how you want to represent the data visualization and you have explained how each part is going to show some aspect of the data. In terms of insight, I get that in general, the median wage of men is higher than the median wage of women and since you have represented a sample of 3 industries, I would flag that."
 2. "It is showing the disparity, but I don't understand the black curve. There is a general trend I can identify that women are paid less"
-3. "What I see is that women are currently getting paid less than mean. It seems that women are often paid less than the population median and men are paid above the pupulation mean. And the amount of wage difference varies across industry. 
+3. "What I see is that women are currently getting paid less than men. It seems that women are often paid less than the population median and men are paid above the population mean. And the amount of wage difference varies across industry." 
 
 ### Is there anything you find surprising or confusing?
 1. "At first glance, I was unsure what the black curve is but once I read the associated test, I understood what it represents."
@@ -75,12 +75,12 @@ In order to test the solution, I showed the wired frame to three individuals (a 
 ### Who do you think is the intended audience for this?
 1. "People looking for proof of wage inequality based on gender, and economists."
 2. "Law makers and those in academia and policy makers."
-3. "Policy maker-Senator or I can see it being used in social research or in petitions to mandate certain policies."
+3. "Policy makers (Eg. Senator) or I can see it being used in social research or in petitions to mandate certain policies."
 
 ### Is there anything you would change or do differently?
 1. "I would probably provide a few examples of industries."
 2. "I don't understand the filter and would make sure even the bars are the same thickness in the wireframe so that nothing is misinterpreted."
-3. "I would turn off filter initially."
+3. "I would turn off the filter initially."
 
 ## 2.5 Step five: Build your solution
 The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It helped me gauge what worked and enhanced it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that fancy visualizations don't often work. They can be cluttered and can at times complicate data which can easily be represented by simple graphs with no ambiguity. 
