@@ -29,7 +29,7 @@ Usefulness is determined based in the needs of the audience and is measured on a
 Completeness is determined based on the extent to which information represented helps produce the right amount of understanding. It is measured on a scale from No relevant data to all relevant data. The visualization here provides no information about the number of people in a particular industry even though it's a focal point of the article and the data set. It would be useful to also provide some information about full-time and part-time employees. The use of a spherical graphic is a good way of enuring that visually, the gender gap between and women is not missed.   
 
 **Perceptability**
-Perceptability is measured based on the ease with with the information and the graphic can be assimilated by the viewer. This is measured on a scale from Unclear and difficult to Clear and easy.
+Perceptability is measured based on the ease with with the information and the graphic can be assimilated by the viewer. This is measured on a scale from Unclear and difficult to Clear and easy. In this graphic, the presence of a color scheme for various buckets of data on the lower left corner and the presence of a scale on the lower right hand corner makes it difficult to keep up with the main representation. Once has to move back and forth from the legends to the main graphic which reduces preceptability. The repeated use of '$' and 'K' is also redundant. 
 
 **Truthfulness**
 
