@@ -87,6 +87,6 @@ Once the data was cleaned, I represented the data using 'Bar chart (grouped)' vi
 
 Using the control, we can either hit play to look at the changes through the years or we can look at the difference in wages in any particular year.
 
-The visualization is as follows:
+The visualization is as follows (Hit Play and look at the trends!):
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8628881"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
