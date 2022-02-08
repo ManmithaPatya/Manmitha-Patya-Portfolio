@@ -50,6 +50,7 @@ I used [figma](https://www.figma.com/files/recent?fuid=1072321393156381394) in o
 My wireframe generated on figma can be viewed below (for 2019 data):
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQu4xRqgLiZ5vgAsriBdFpN%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 ## 2.4 Step four: Test the solution
 In order to test the solution, I showed the wired frame to three individuals (a Heinz student, a Tepper student and a student at Mellon College).
 ### Can you tell me what you think this is?
@@ -82,6 +83,8 @@ In order to test the solution, I showed the wired frame to three individuals (a 
 2. "I don't understand the filter and would make sure even the bars are the same thickness in the wireframe so that nothing is misinterpreted."
 3. "I would turn off the filter initially."
 
+After interviewing the three students, I realized that my subtitle was not very informative as it seems like I am comparing the wage data with itself. Hence, I will have to make sure that in my final visualization, I add a more detailed subtitle. A lot of questions came up about the black line so I will have to be careful about how I represent it so that it is not misinterpreted.   
+
 ## 2.5 Step five: Build your solution
 The exercise of critiquing the visualization helped me immensely when it came to deconstructing it. It helped me gauge what works and gave me ideas to enhance it while also figuring out those aspects of it which need to be reconsidered. What I learnt is that fancy visualizations don't often work. They can be cluttered and can at times complicate data which can easily be represented by simple graphs with no ambiguity. 
 
@@ -99,7 +102,7 @@ The visualization is as follows:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8635848"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-In my critique section, I mentioned the importance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the US Census website and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
+In my critique section, I mentioned the importance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the [US Census Bureau website](https://data.census.gov/cedsci/table?q=S2413&tid=ACSST1Y2019.S2413&hidePreview=true) and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
 
 Once the data was cleaned, I represented the data using 'Bar chart (grouped)' visualization via 'Grid of Charts'. Here, I split the grids according to gender and we can now see a side-by-side view of the changes in wage through the years for the two genders across industries. As in the previously developed visual, wage ($) is represented only once on the x-axis so that it is not repeated multiple times and here, the industries are arranged in alphabetical order with 'Other Services' at the end.
 
