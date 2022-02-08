@@ -96,7 +96,7 @@ In order to get the data ready, I did the following:
 - Removed unwanted data (columns) such as 'error margin'
 - Reordered the industries so that they are in ascending order of 'Median Wage of the Population' 
 
-In this first visual, I worked off my wireframe to build a visualization using the 'Combo: Lines & columns (grouped)' as my graphic as choice. The bars represent the series data- 'Median Wage of Women and the 'Median Wage of Men'. The line representation is used for the overall 'Median Wage of the Population'. The x-axis contains each of the twenty industries. I represented the median wage is dollars only on the y-axis so that it is not repeated multiple times. I tested the colors used against the most common color blindness [here](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that they were color blind friendly.
+In this first visual, I worked off my wireframe to build a visualization using the 'Combo: Lines & columns (grouped)' as my graphic as choice. The bars represent the series data- 'Median Wage of Women and the 'Median Wage of Men'. The line representation is used for the overall 'Median Wage of the Population'. The x-axis contains each of the twenty industries. I represented the median wage is dollars only on the y-axis so that it is not repeated multiple times. I also made sure that the sub-title of the graphic is more informative. I tested the colors used against the most common color blindness [here](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that they were color blind friendly.
 
 The visualization is as follows:
 
@@ -104,7 +104,7 @@ The visualization is as follows:
 
 In my critique section, I mentioned the importance of historical data and how it can help enhance the visual. Keeping that in mind, I found data for years 2015 through 2019 on the [US Census Bureau website](https://data.census.gov/cedsci/table?q=S2413&tid=ACSST1Y2019.S2413&hidePreview=true) and aggregated them into one single dataset. I then proceeded to clean the data following the steps mentioned before.
 
-Once the data was cleaned, I represented the data using 'Bar chart (grouped)' visualization via 'Grid of Charts'. Here, I split the grids according to gender and we can now see a side-by-side view of the changes in wage through the years for the two genders across industries. As in the previously developed visual, wage ($) is represented only once on the x-axis so that it is not repeated multiple times and here, the industries are arranged in alphabetical order with 'Other Services' at the end.
+Once the data was cleaned, I represented the data using 'Bar chart (grouped)' visualization via 'Grid of Charts'. Here, I split the grids according to gender and we can now see a side-by-side view of the changes in wage through the years for the two genders across industries. As in the previously developed visual, wage ($) is represented only once on the x-axis so that it is not repeated multiple times and here, the industries are arranged in alphabetical order with 'Other Services' at the end. As in the previous visualization, even here, I made sure that the sub-title is informative and not confusing.
 
 Using the control, we can either hit play to look at the changes through the years or we can look at the difference in wages in any particular year.
 
