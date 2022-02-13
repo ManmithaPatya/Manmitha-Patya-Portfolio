@@ -4,9 +4,10 @@ My final project is centered around the natural world. It's main focus will be a
 # Project Outline
 The following is the mindmap that I created for my project. It helped me visualize the overall structures and the important details I should add in my project to make it effective. Creating this mindmap helped me not only retail my thoughts but also enabled me to build a path for my project. 
 
-The following is the mindmap I built for my project.
+The following is the mindmap I built for my project on [Mindmeister](https://www.mindmeister.com/folders).
 
 <img width="857" alt="MindMap" src="https://user-images.githubusercontent.com/63778629/153775011-2030cb84-2463-4a71-9748-fc7d927d5dce.PNG">
+
 
 # Data
 # Method and Medium
