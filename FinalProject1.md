@@ -23,6 +23,14 @@ Here, we will also take look at a visualization showcasing the number of species
 
 ![SpeciesByYear_Endangered](https://user-images.githubusercontent.com/63778629/153778124-a4329d4c-681b-49a2-a3e4-61012464ec98.jpeg)
 
+### The Living Planet Index and its Importance
+
+In this section, I will relate back to the previous section by taking about the Living Planet Index (LPI). The LPI is a measure of the state of the world's biological diversity based on population trends of vertebrate species from terrestrial, freshwater and marine habitats. Here, we will see the changes in the LPI over the years and what it means to the ecosystem. 
+
+![LPI_yearly](https://user-images.githubusercontent.com/63778629/153779140-6cbd960b-16c7-42f6-b23e-19b7b4b62572.jpeg)
+
+Further more, we will explore the causes fo Loss of Wildlife and the Importance of Wildlife Conservation. 
+
 # Data
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project andto serve an medium for the audience to experince my project.
