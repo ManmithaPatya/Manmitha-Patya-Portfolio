@@ -23,7 +23,6 @@ Here, we will also take look at a visualization showcasing the number of species
 
 ![SpeciesByYear_Endangered](https://user-images.githubusercontent.com/63778629/153778124-a4329d4c-681b-49a2-a3e4-61012464ec98.jpeg)
 
-
 # Data
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project andto serve an medium for the audience to experince my project.
