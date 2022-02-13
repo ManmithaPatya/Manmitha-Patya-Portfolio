@@ -35,6 +35,20 @@ Further more, we will explore the causes fo Loss of Wildlife and the Importance 
 
 I will depict the importance of wildlife convervation with the help of an infogram.
 
+### 4. The budget allocation for Wildlife Conservation
+
+In this section, I will explore the annual global expenditure of WWF on Wildlife Conservation.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkMaCCZHJIkVjoVqF65Wytr%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+In addition to this, I will also shed some light on how the costs are distributed.
+
+### 5. Famous Extinctions caused by humans
+
+### 6. Famous Conservationists
+
+### 7. 
+
 # Data
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experince my project.
