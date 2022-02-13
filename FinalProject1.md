@@ -11,6 +11,10 @@ The following is the mindmap I built for my project on [Mindmeister](https://www
 <img width="857" alt="MindMap" src="https://user-images.githubusercontent.com/63778629/153775011-2030cb84-2463-4a71-9748-fc7d927d5dce.PNG">
 
 Now, I will break the project structure into  various sections and talk about them and will also provide associated visualizations.
+## The current situation of bidiversity in the world
+In this section, I will talk about the global forest cover. As forests and jungles are the hotspots of thriving ecological systems, I will explore the area of global forest cover over years and shed light on how global forests are disappearing at the rate of one football pitch every six seconds.
+
+<u> Accompanying Visualization </u>
 
 
 # Data
