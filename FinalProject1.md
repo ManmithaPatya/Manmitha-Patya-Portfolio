@@ -29,11 +29,15 @@ In this section, I will relate back to the previous section by taking about the 
 
 ![LPI_yearly](https://user-images.githubusercontent.com/63778629/153779140-6cbd960b-16c7-42f6-b23e-19b7b4b62572.jpeg)
 
-Further more, we will explore the causes fo Loss of Wildlife and the Importance of Wildlife Conservation. 
+Further more, we will explore the causes fo Loss of Wildlife and the Importance of Wildlife Conservation.
+
+![CausesForExtinction](https://user-images.githubusercontent.com/63778629/153779758-0e647777-b106-4939-95e0-020414952b12.jpeg)
+
+I will depict the importance of wildlife convervation with the help of an infogram.
 
 # Data
 # Method and Medium
-The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project andto serve an medium for the audience to experince my project.
+The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experince my project.
 
 To build visualizations, my primary platfoorm will be [Flourish](https://flourish.studio/). However, I will switch to tableau should I need more control on how my visualizations look. To make story boards, in addition to hand-drawing a few visualizations, I will make use of platforms like [Balsamiq](https://balsamiq.cloud/) and [Figma](https://www.figma.com/). For mindmapping, I will use [Mindmeister](https://www.mindmeister.com/folders), a platform I have been using for ~2 years now. 
 
