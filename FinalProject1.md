@@ -2,6 +2,9 @@
 My final project is centered around the natural world. It's main focus will be animal conservation. The project wil highlight the importance of conservation, the causes of loss of wildlife, the budget allocation by geopraphy for animal conservation and human intervention which negatively affects the natural world. From here, I will talk about the effects of loss of fauna, the most famous extinctions caused by humans mans, a few conservationists. I will conclude the project by suggesting the small steps we can take at a local level to help in preserving the natural world of which these animals are an integral part.
 
 # Project Outline
+The following is the mindmap that I created for my project. It helped me visualize the overall structures and the important details I should add in my project to make it effective. Creating this mindmap helped me not only retail my thoughts but also enabled me to build a path for my project. 
+
+The following is the mindmap I built for my project.
 # Data
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project andto serve an medium for the audience to experince my project.
