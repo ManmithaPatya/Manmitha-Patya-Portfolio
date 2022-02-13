@@ -4,7 +4,7 @@ Having grown up in a place full of thriving wildlife, I chose my final project t
 Through this project, I hope to strike a chord with those who hope affect positive change in the environment but haven't yet gone down that very rewarding path. 
 
 # Project Outline
-### Mindmap
+### 1. Mindmap
 The following is the mindmap that I created for my project. It helped me visualize the overall structures and the important details I should add in my project to make it effective. Creating this mindmap helped me not only retail my thoughts but also enabled me to build a path for my project. 
 
 The following is the mindmap I built for my project on [Mindmeister](https://www.mindmeister.com/folders).
@@ -12,7 +12,7 @@ The following is the mindmap I built for my project on [Mindmeister](https://www
 <img width="857" alt="MindMap" src="https://user-images.githubusercontent.com/63778629/153775011-2030cb84-2463-4a71-9748-fc7d927d5dce.PNG">
 
 Now, I will break the project structure into  various sections and talk about them and will also provide associated visualizations.
-### The current situation of bidiversity in the world
+### 2. The current situation of bidiversity in the world
 In this section, I will talk about the global forest cover. As forests and jungles are the hotspots of thriving ecological systems, I will explore the area of global forest cover over years and shed light on how global forests are disappearing at the rate of one football pitch every six seconds.
 
 <u> Accompanying Visualization </u>
@@ -23,7 +23,7 @@ Here, we will also take look at a visualization showcasing the number of species
 
 ![SpeciesByYear_Endangered](https://user-images.githubusercontent.com/63778629/153778124-a4329d4c-681b-49a2-a3e4-61012464ec98.jpeg)
 
-### The Living Planet Index and its Importance
+### 3. The Living Planet Index and its Importance
 
 In this section, I will relate back to the previous section by taking about the Living Planet Index (LPI). The LPI is a measure of the state of the world's biological diversity based on population trends of vertebrate species from terrestrial, freshwater and marine habitats. Here, we will see the changes in the LPI over the years and what it means to the ecosystem. 
 
