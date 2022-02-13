@@ -19,6 +19,9 @@ In this section, I will talk about the global forest cover. As forests and jungl
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTKOdzE7GoJymKTx1dtiMFD%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
+Here, we will also take look at a visualization showcasing the number of species added to the endangered list each year. This will highlight how 1994 had the highest number of species being added to the list of endangered species. 
+
+
 
 # Data
 # Method and Medium
