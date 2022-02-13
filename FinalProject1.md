@@ -8,6 +8,7 @@ The following is the mindmap I built for my project on [Mindmeister](https://www
 
 <img width="857" alt="MindMap" src="https://user-images.githubusercontent.com/63778629/153775011-2030cb84-2463-4a71-9748-fc7d927d5dce.PNG">
 
+Now, I will break the project structure into  various sections and talk about them and will also provide associated visualizations.
 
 # Data
 # Method and Medium
