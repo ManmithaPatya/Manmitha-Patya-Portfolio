@@ -4,7 +4,8 @@
 # Final Project: Part I
 Having grown up in a place full of thriving wildlife, I chose my final project to be centred around the natural world. Its main focus will be animal conservation. The project will highlight the importance of conservation, the causes of loss of wildlife, the budget allocation by geography for animal conservation and human intervention which negatively affects the natural world. From here, I will talk about the effects of loss of fauna, the most famous extinctions caused by humans mans, a few conservationists. I will conclude the project by suggesting the small steps we can take at a local level to help in preserving the natural world of which these animals are an integral part.
 
-Through this project, I hope to strike a chord with those who hope affect positive change in the environment but haven't yet gone down that very rewarding path. 
+# Project Audience
+Through this project, I hope to strike a chord with those who hope affect positive change in the environment but haven't yet gone down that very rewarding path. The learnings from project will address every individual across the globe and is a call to come together to help conserve the natural world.
 
 # Project Outline
 
