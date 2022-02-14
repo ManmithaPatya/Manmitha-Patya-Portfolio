@@ -1,6 +1,6 @@
-### [Go to Project Part 2](FinalProject2.md)
+##### [Go to Project Part 2](FinalProject2.md)
 
-### [Go To Project Part 3](FinalProject3.md)
+##### [Go To Project Part 3](FinalProject3.md)
 
 # Final Project: Part I
 Having grown up in a place full of thriving wildlife, I chose my final project to be centred around the natural world. Its main focus will be animal conservation. The project will highlight the importance of conservation, the causes of loss of wildlife, the budget allocation by geography for animal conservation and human intervention which negatively affects the natural world. From here, I will talk about the effects of loss of fauna, the most famous extinctions caused by humans mans, a few conservationists. I will conclude the project by suggesting the small steps we can take at a local level to help in preserving the natural world of which these animals are an integral part.
@@ -25,8 +25,6 @@ Now, I will break the project structure into various sections and talk about the
 
 ### 3. The current state of biodiversity in the world
 In this section, I will talk about the global forest cover. As forests and jungles are the hotspots of thriving ecological systems, I will explore the area of global forest cover over years and shed light on how global forests are disappearing at the rate of one football pitch every six seconds.
-
-<u> Accompanying Visualization </u>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FTKOdzE7GoJymKTx1dtiMFD%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
