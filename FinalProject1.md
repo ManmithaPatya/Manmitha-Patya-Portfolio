@@ -45,6 +45,7 @@ In addition to this, I will also shed some light on how the costs are distribute
 
 ### 5. Famous Extinctions caused by humans
 Here, I will share details of famous extinctions of species which were a direct result of human interference along with the year and the activity.
+I will also make a plot to visually represent the year of extinction.
 Exclusion: I will not share details of Mass Extinctions
 Example: Dodo, Tasmanian Wolf, Stellar's Sea Cow.
 I will Either create an infogram using the Adobe Suite or will list out the details.
