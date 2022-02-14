@@ -50,6 +50,9 @@ Example: Dodo, Tasmanian Wolf, Stellar's Sea Cow.
 I will Either create an infogram using the Adobe Suite or will list out the details.
 
 ### 6. Famous Conservationists
+In this section, I will talk about some famous conservationists and the work that they did during their lifetime/ are currently doing. 
+This is a sections that I am conflicted about. On the one hand, I want to include it and on the other hand, I am questioning its place in my overall project. My rationale for including this is to show how ordinary men and women can make a global impact.
+I will make mentions of Jane Goodall, Dian Fossey, Li Quan, Paula Kahumbu, Birute Galdikas, Margaret Murie among others.
 
 
 ### 7. 
