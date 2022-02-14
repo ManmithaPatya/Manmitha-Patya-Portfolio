@@ -67,11 +67,11 @@ Wildlife is very important for ecological balance. A stable environment provides
 
 # Data and Other Resources
 ## Primary Data Sources
-- This dataset from [Our World in Data](https://ourworldindata.org/forest-area) will be used to show the decline in forest area through the years. The dataset can be viewed [here]
-- This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) will be used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here].
-- This dataset from [Our World in Data](: https://ourworldindata.org/grapher/global-living-planet-index?time=1971..latest) will be used to show the changes in the Living Plant Index by each year
+- This dataset from [Our World in Data](https://ourworldindata.org/forest-area) will be used to show the decline in forest area through the years. The dataset can be viewed [here](forest-area-km.csv)
+- This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) will be used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here](species-listings-by-year-totals-report.csv).
+- This dataset from [Our World in Data](: https://ourworldindata.org/grapher/global-living-planet-index?time=1971..latest) will be used to show the changes in the Living Plant Index by each year. The data can be viewed [here](global-living-planet-index.csv)
 - A data table built from the visualization in [Our World in Data](https://ourworldindata.org/threats-to-wildlife) will be used to make the visualization which tells us the number of species in danger divided by the driving forces. The dataset can be found [here](Endangerment_Reason.xlsx).
-- This dataset from [World Wildlife Org](https://www.worldwildlife.org/about/financials) will be used to shed light on the budget allocation for conservation activities. The data set can be found here.
+- This dataset from [World Wildlife Org](https://www.worldwildlife.org/about/financials) will be used to shed light on the annual expenditure for conservation activities. The data set can be found [here](Expenditure_Annual.xlsx).
 
 ## Other Sources
 Here, are a few websites that I will use for key information in this project
