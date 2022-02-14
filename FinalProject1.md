@@ -82,6 +82,7 @@ The following are few websites that I will use for key information in this proje
 - From this website by [Tree Hugger](https://www.treehugger.com/famous-animal-conservationists-4869299), I will obtain information about various conservationists
 - From this website by the [National Museum of Natural History](https://naturalhistory.si.edu/education/teaching-resources/paleontology/extinction-over-time), I will obtain information about Famous extinctions caused by man
 
+
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experience my project.
 
