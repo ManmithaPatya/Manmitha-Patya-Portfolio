@@ -17,8 +17,10 @@ For the visualizations here, I used the datasets available on the Organization f
 This exercise consists of three parts as follows:
 - [Web based visualization as generated on the OECD website](https://manmithapatya.github.io/ManmithaPatya-Portfolio/OECD_Visualization.html#web-based-visualization-as-generated-on-the-oecd-website)
 - [Visualizations generated on flourish](https://manmithapatya.github.io/ManmithaPatya-Portfolio/OECD_Visualization.html#2-visualizations-built-on-flourish)
+- 
 ## [Critique by Design](CritiqueByDesign.md)
 The 'Critique by Design' assignment of this course refers to the **second critique assignment** and the **second data visualization assignment**. 
+
 ## [Final Project](FinalProject1.md)
 The topic I have chosen for my final project is 'Wildlife Conservation'. Here, I will talk about the importance of wildlife conservation and human intervention which leads to eventual degradation. 
 The project will be take place in three phases.
