@@ -62,16 +62,16 @@ Wildlife is very important for ecological balance. A stable environment provides
 
 # Data and Other Resources
 ## Primary Data Sources
-- The dataset from will be used to show the decline in forest area through the years.
-- This dataset from statista will be used to build the visualization of the number of species added to the endangered list annually
-- This dataset from xxxx will be used to show the changes in the Living Plant Index by each year
-- This data set will be used to make the visualization which tells us the number of species in danger divided by the driving forces
-- This dataset will be used to shed light on the budget allocation for conservation activities
+- This dataset from [ourworldindata](https://ourworldindata.org/forest-area) will be used to show the decline in forest area through the years. The dataset can be viewed [here]
+- This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) will be used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here].
+- This dataset from [Our World in Data](: https://ourworldindata.org/grapher/global-living-planet-index?time=1971..latest) will be used to show the changes in the Living Plant Index by each year
+- A data table built from the visualization in [Our World in Data](https://ourworldindata.org/threats-to-wildlife) will be used to make the visualization which tells us the number of species in danger divided by the driving forces. The dataset can be found [here].(Endangerment_Reason.xlsx)
+- This dataset from [World Wildlife Org](https://www.worldwildlife.org/about/financials) will be used to shed light on the budget allocation for conservation activities. The data set can be found here.
 
 ## Other Sources
 Here, are a few websites that I will use for key information in this project
-- From this website by bbbb, I will obtain information about various conservationists
-- From this website, I will obtain information about Famous extinctions caused by man
+- From this website by [Tree Hugger](https://www.treehugger.com/famous-animal-conservationists-4869299), I will obtain information about various conservationists
+- From this website by the [National Museum of Natural History](https://naturalhistory.si.edu/education/teaching-resources/paleontology/extinction-over-time), I will obtain information about Famous extinctions caused by man
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experince my project.
 
