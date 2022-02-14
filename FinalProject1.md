@@ -68,7 +68,6 @@ I will make mentions of Jane Goodall, Dian Fossey, Li Quan, Paula Kahumbu, Birut
 Wildlife is very important for ecological balance. A stable environment provides conditions in which every living being can thrive. Even at a local level, we can start by fighting against deforestation which causes displacement of animals and we can promote afforestation. In addition to this, we can donate to wildlife funds who operate directly with conservationists who are on ground with animals. Conservation helps in not just continuity of life but also adds the possibility of discovery of new species which can further support ecological balance. 
 
 # Data and Other Resources
-
 ## Primary Data Sources
 - This dataset from [Our World in Data](https://ourworldindata.org/forest-area) will be used to show the decline in forest area through the years. The dataset can be viewed [here](forest-area-km.csv)
 - This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) will be used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here](species-listings-by-year-totals-report.csv).
