@@ -21,7 +21,8 @@ This exercise consists of three parts as follows:
 The 'Critique by Design' assignment of this course refers to the **second critique assignment** and the **second data visualization assignment**. 
 ## [Final Project](FinalProject1.md)
 The topic I have chosen for my final project is 'Wildlife Conservation'. Here, I will talk about the importance of wildlife conservation and human intervention which leads to eventual degradation. 
-The project will be take place in three phases
+The project will be take place in three phases.
+
 ### [Part 1](FinalProject1.md)
 In the first phase of the project, I will elaborate of the topic I have chosen, I will share mindmaps and an outline of my project. In addition to this, I will also share initial sketches, the data sources and the method and medium for my project. 
 
