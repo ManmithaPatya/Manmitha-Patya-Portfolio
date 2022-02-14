@@ -58,9 +58,20 @@ I will make mentions of Jane Goodall, Dian Fossey, Li Quan, Paula Kahumbu, Birut
 
 
 ### 7. Call To Action
+Wildlife is very important for ecological balance. A stable environment provides conditions in which every living being can thrive. Even at a local level,we can start my fighting again deforestaion which causes displacement of animals and we can promote afforestation. In addition to this, we can donate to wildlife funds who operate directly with conservationists who are on ground with animals. Conservation helps in not just continuity of life but also adds the possibilility of discovery of new species which can further support ecological balance. 
 
+# Data and Other Resources
+## Primary Data Sources
+- The dataset from will be used to show the decline in forest area through the years.
+- This dataset from statista will be used to build the visualization of the number of species added to the endangered list annually
+- This dataset from xxxx will be used to show the changes in the Living Plant Index by each year
+- This data set will be used to make the visualization which tells us the number of species in danger divided by the driving forces
+- This dataset will be used to shed light on the budget allocation for conservation activities
 
-# Data
+## Other Sources
+Here, are a few websites that I will use for key information in this project
+- From this website by bbbb, I will obtain information about various conservationists
+- From this website, I will obtain information about Famous extinctions caused by man
 # Method and Medium
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experince my project.
 
