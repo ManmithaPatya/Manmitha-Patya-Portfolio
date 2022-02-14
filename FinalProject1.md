@@ -89,7 +89,6 @@ In addition to there, for the infograms I plan in including, I will create them 
 
 And finally, I will use [Shorthand](https://shorthand.com/) to tell the story of Wildlife Conservation to the audience. 
 
-
 ##### [Go to Project Part 2](FinalProject2.md)
 
 ##### [Go To Project Part 3](FinalProject3.md)
