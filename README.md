@@ -19,7 +19,7 @@ This exercise consists of three parts as follows:
 - [Visualizations generated on flourish](https://manmithapatya.github.io/ManmithaPatya-Portfolio/OECD_Visualization.html#2-visualizations-built-on-flourish)
 ## [Critique by Design](CritiqueByDesign.md)
 The 'Critique by Design' assignment of this course refers to the **second critique assignment** and the **second data visualization assignment**. 
-## Final Project
+## [Final Project](FinalProject1.md)
 The topic I have chosen for my final project is 'Wildlife Conservation'. Here, I will talk about the importance of wildlife conservation and human intervention which leads to eventual degradation. 
 The project will be take place in three phases
 ### [Part 1](FinalProject1.md)
