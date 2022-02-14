@@ -45,10 +45,11 @@ In addition to this, I will also shed some light on how the costs are distribute
 
 ### 5. Famous Extinctions caused by humans
 Here, I will share details of famous extinctions of species which were a direct result of human interference along with the year and the activity.
-I will also make a plot to visually represent the year of extinction.
 Exclusion: I will not share details of Mass Extinctions
 Example: Dodo, Tasmanian Wolf, Stellar's Sea Cow.
 I will Either create an infogram using the Adobe Suite or will list out the details.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FPvJcnyNLmwttdUHdIPVB9w%2FExtinction-Timeline%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### 6. Famous Conservationists
 In this section, I will talk about some famous conservationists and the work that they did during their lifetime/ are currently doing. 
@@ -56,7 +57,8 @@ This is a sections that I am conflicted about. On the one hand, I want to includ
 I will make mentions of Jane Goodall, Dian Fossey, Li Quan, Paula Kahumbu, Birute Galdikas, Margaret Murie among others.
 
 
-### 7. 
+### 7. Call To Action
+
 
 # Data
 # Method and Medium
