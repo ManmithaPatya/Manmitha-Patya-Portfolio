@@ -44,8 +44,13 @@ In this section, I will explore the annual global expenditure of WWF on Wildlife
 In addition to this, I will also shed some light on how the costs are distributed.
 
 ### 5. Famous Extinctions caused by humans
+Here, I will share details of famous extinctions of species which were a direct result of human interference along with the year and the activity.
+Exclusion: I will not share details of Mass Extinctions
+Example: Dodo, Tasmanian Wolf, Stellar's Sea Cow.
+I will Either create an infogram using the Adobe Suite or will list out the details.
 
 ### 6. Famous Conservationists
+
 
 ### 7. 
 
@@ -54,5 +59,6 @@ In addition to this, I will also shed some light on how the costs are distribute
 The primary platforms that I will use for my project will be serve the following purposes- To build visualizations, To make storyboards, To mind map my vision for the project and to serve an medium for the audience to experince my project.
 
 To build visualizations, my primary platfoorm will be [Flourish](https://flourish.studio/). However, I will switch to tableau should I need more control on how my visualizations look. To make story boards, in addition to hand-drawing a few visualizations, I will make use of platforms like [Balsamiq](https://balsamiq.cloud/) and [Figma](https://www.figma.com/). For mindmapping, I will use [Mindmeister](https://www.mindmeister.com/folders), a platform I have been using for ~2 years now. 
+In addition to there, for the infograms I plan in including, I will create them using the Adobe Suite.
 
 And finally, I will use [Shorthand](https://shorthand.com/) to tell the story of Wildlife Conservation to the audience. 
