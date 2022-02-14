@@ -1,7 +1,4 @@
 ##### [Go to Project Part 2](FinalProject2.md)
-
-#check
-
 ##### [Go To Project Part 3](FinalProject3.md)
 
 # Final Project: Part I
