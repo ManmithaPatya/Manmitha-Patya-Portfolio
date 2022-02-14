@@ -24,3 +24,7 @@ The topic I have chosen for my final project is 'Wildlife Conservation'. Here, I
 The project will be take place in three phases
 ### [Part 1](FinalProject1.md)
 In the first phase of the project, I will elaborate of the topic I have chosen, I will share mindmaps and an outline of my project. In addition to this, I will also share initial sketches, the data sources and the method and medium for my project. 
+
+### [Part 2](FinalProject2.md)
+
+### [Part 3](FinalProject3.md)
