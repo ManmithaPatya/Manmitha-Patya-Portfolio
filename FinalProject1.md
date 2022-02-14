@@ -8,6 +8,7 @@ Having grown up in a place full of thriving wildlife, I chose my final project t
 Through this project, I hope to strike a chord with those who hope affect positive change in the environment but haven't yet gone down that very rewarding path. 
 
 # Project Outline
+
 ### 1. Mindmap
 The following is the mindmap that I created for my project. It helped me visualize the overall structures and the important details I should add in my project to make it effective. Creating this mindmap helped me not only retail my thoughts but also enabled me to build a path for my project. 
 
@@ -21,6 +22,7 @@ Based on my mindmap, the following in the storyarc that I have developed for my 
 ![Story Arc](https://user-images.githubusercontent.com/63778629/153787511-03fe504f-e2ce-4273-869b-ca690f60f6cb.jpeg)
 
 Now, I will break the project structure into various sections and talk about them and will also provide associated visualizations.
+
 ### 3. The current state of biodiversity in the world
 In this section, I will talk about the global forest cover. As forests and jungles are the hotspots of thriving ecological systems, I will explore the area of global forest cover over years and shed light on how global forests are disappearing at the rate of one football pitch every six seconds.
 
@@ -33,7 +35,6 @@ Here, we will also take look at a visualization showcasing the number of species
 ![SpeciesByYear_Endangered](https://user-images.githubusercontent.com/63778629/153778124-a4329d4c-681b-49a2-a3e4-61012464ec98.jpeg)
 
 ### 3. The Living Planet Index and its Importance
-
 In this section, I will relate back to the previous section by taking about the Living Planet Index (LPI). The LPI is a measure of the state of the world's biological diversity based on population trends of vertebrate species from terrestrial, freshwater and marine habitats. Here, we will see the changes in the LPI over the years and what it means to the ecosystem. 
 
 ![LPI_yearly](https://user-images.githubusercontent.com/63778629/153779140-6cbd960b-16c7-42f6-b23e-19b7b4b62572.jpeg)
@@ -45,7 +46,6 @@ Furthermore, we will explore the causes of Loss of Wildlife and the Importance o
 I will depict the importance of wildlife conservation with the help of an infogram.
 
 ### 4. The budget allocation for Wildlife Conservation
-
 In this section, I will explore the annual global expenditure of WWF on Wildlife Conservation.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkMaCCZHJIkVjoVqF65Wytr%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
@@ -70,6 +70,7 @@ I will make mentions of Jane Goodall, Dian Fossey, Li Quan, Paula Kahumbu, Birut
 Wildlife is very important for ecological balance. A stable environment provides conditions in which every living being can thrive. Even at a local level, we can start by fighting against deforestation which causes displacement of animals and we can promote afforestation. In addition to this, we can donate to wildlife funds who operate directly with conservationists who are on ground with animals. Conservation helps in not just continuity of life but also adds the possibility of discovery of new species which can further support ecological balance. 
 
 # Data and Other Resources
+
 ## Primary Data Sources
 - This dataset from [Our World in Data](https://ourworldindata.org/forest-area) will be used to show the decline in forest area through the years. The dataset can be viewed [here](forest-area-km.csv)
 - This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) will be used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here](species-listings-by-year-totals-report.csv).
@@ -78,7 +79,7 @@ Wildlife is very important for ecological balance. A stable environment provides
 - This dataset from [World Wildlife Org](https://www.worldwildlife.org/about/financials) will be used to shed light on the annual expenditure for conservation activities. The data set can be found [here](Expenditure_Annual.xlsx).
 
 ## Other Sources
-Here, are a few websites that I will use for key information in this project
+The following are a websites that I will use for key information in this project
 - From this website by [Tree Hugger](https://www.treehugger.com/famous-animal-conservationists-4869299), I will obtain information about various conservationists
 - From this website by the [National Museum of Natural History](https://naturalhistory.si.edu/education/teaching-resources/paleontology/extinction-over-time), I will obtain information about Famous extinctions caused by man
 # Method and Medium
