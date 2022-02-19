@@ -29,9 +29,10 @@ The 'Critique by Design' assignment of this course refers to the **second critiq
 The topic I have chosen for my final project is 'Wildlife Conservation'. Here, I will talk about the importance of wildlife conservation and human intervention which leads to eventual degradation. 
 The project will be take place in three phases.
 
-### [Part 1](FinalProject1.md)
+### [Part 1: Project Overview and Initial Sketches](FinalProject1.md)
 In the first phase of the project, I will elaborate of the topic I have chosen, I will share mindmaps and an outline of my project. In addition to this, I will also share initial sketches, the data sources and the method and medium for my project. 
 
-### [Part 2](FinalProject2.md)
+### [Part 2: Final Project Wireframes / Storyboards and User Research](FinalProject2.md)
+In the second phase of the project, I will use the sketches developed in phase 1 to further develop my story outline and relevant components visually through the use of wireframing / storyboards.  
 
 ### [Part 3](FinalProject3.md)
