@@ -17,7 +17,7 @@ Travelling jobs, etc
 
 ### Interview Script
 
-### Interview Findings
+## Interview Findings
 
 # Changes to be made for part III
 ## Changes to visualizations
