@@ -7,7 +7,7 @@ My final project focuses on wildlife and its conservation. In Part II I will foc
 
 # Story Board
 For storyboarding, I decided to use [shorthand](https://shorthand.com/). Since my main medium for telling the story of wildlife conservation is Shorthand (as mentioned in Part I), I believe that using the same medium to form a showcase to the interviewees for their feedback will help me obtain more specific responses and comments. 
-The link to my storyboard on Shorthand can be found [here](). [Flourish](https://flourish.studio/) was used for building visualizations and [canva](https://www.canva.com/) for creating infograms
+The link to my storyboard on Shorthand can be found [here](https://preview.shorthand.com/wwCH78d1u4WSKyrD). [Flourish](https://flourish.studio/) was used for building visualizations and [canva](https://www.canva.com/) for creating infograms
 
 # User Research
 
