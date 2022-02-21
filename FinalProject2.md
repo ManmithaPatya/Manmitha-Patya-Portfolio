@@ -44,6 +44,11 @@ The criteria are as follows:
 - Overall Aesthetics
 - Overall Narrative
 
+ What I wish to test   |                What I expect to achieve                 |                What I will ask                
+  ------------ | ------------- | -------------
+Relevance | To check if the content being presented is relevant to the type of audience and to the topic under discussion | **1.** At first glance, what do you think is the key idea of the presentation?<br />**2.** Were you already aware of any information that has been presented here?<br />**3.** Any elements of this story which came as a surprise to you but have been understated in the narrative?
+
+
  Criterion     |      What I Hope to Evaluate       |                      Guiding Questions that will be used 
 ---|---|---|
 Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview|1. From the title page, what do you hope to see in this storyboard?<br />2. Is topic of interest to you and do you have prior knowlege of it?<br />3. What were you surprised to find out?
