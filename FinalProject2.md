@@ -26,7 +26,7 @@ With this in mind and with the sole aim of narrowing down the audience pool, I w
 ### Approach to IDentifying Representative Individuals to Interview
 Based on my definition of target audience, I will interview those candidates who fall into each of the buckets of: recent graduate, student in any field of enviromental studies and those individuals who have worked or are currently working with any environment/ wildlife focued organization. 
 
-When choosing an individual who who is working in an environment focused organization, I will interview them who have a travelling job. This is because they are the ones who are on-ground and not confined to an office room when making impactful decisions. 
+When choosing an individual who is working in an environment focused organization, I will interview them who have a travelling job. This is because they are the ones who are on-ground and not confined to an office room when making impactful decisions. 
 
 In addition to professional features, I will also consider the following markers when choosing an individual:
 - Home Country 
