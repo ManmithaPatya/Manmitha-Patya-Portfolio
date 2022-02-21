@@ -17,16 +17,18 @@ As user research protocol, I will define the following:
 - my approach to identifying representative individuals to interview
 - my interview script 
 
-Based on these, I will provide an overview of the interview findings and explain the changes that will be implmeneted based on user feedback. 
+Based on this pre-defined protocol, I will provide an overview of the interview findings and explain the changes that will be implemeneted in the final phase of the based on user feedback. 
 
-### Ideal Candidate for the interview 
+### Target Audience
+
+### Approach to identifying Representative Individuals to Interview
 Travelling jobs, etc
 
 ### Interview Script
 
 ## Interview Findings
 
-# Changes to be made for part III
+# Changes to be implemented for part III
 ## Changes to visualizations
 ## Changes to Images
 ## Changes to written content
