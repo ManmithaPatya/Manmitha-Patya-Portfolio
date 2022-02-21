@@ -61,6 +61,7 @@ The criteria are as follows:
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 | ----- | ----- | ----- |
+| **1.** From the title page, what do you hope to see in this storyboard? | 
 
 # Changes to be implemented for part III
 ## Changes to visualizations
