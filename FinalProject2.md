@@ -23,7 +23,7 @@ Based on this pre-defined protocol, I will provide an overview of the interview 
 Through this project, I hope to strike a chord with those who hope to affect positive change in the environment but haven’t yet gone down that very rewarding path. The learnings from this project will address every individual across the globe and is a call to come together to help conserve the natural world.
 With this in mind and with the sole aim of narrowing down the audience pool, I will focus my attention on those individuals who are recent graduates, current students in field of environmental students or those individuals who have worked or are currently working with any environment/ wildlife focued organization. This is because going forward, they will be the change makers. 
 
-### Approach to identifying Representative Individuals to Interview
+### Approach to IDentifying Representative Individuals to Interview
 Based on my definition of target audience, I will interview those candidates who fall into each of the buckets of: recent graduate, student in any field of enviromental studies and those individuals who have worked or are currently working with any environment/ wildlife focued organization. 
 
 When choosing an individual who who is working in an environment focused organization, I will interview them who have a travelling job. This is because they are the ones who are on-ground and not confined to an office room when making impactful decisions. 
