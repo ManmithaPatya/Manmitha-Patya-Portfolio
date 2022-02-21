@@ -33,6 +33,10 @@ In addition to professional features, I will also consider the following markers
 - Age
 
 ### Interview Script
+I will breakdown the interview questions that I will ask based on certain criteria that I hope to measure through user interviews. My interview questions will be loosely based on previously conducted user interviews for the course and general market research questions. 
+The criteria are as follows:
+- Emotional Appeal
+- Clarity of Visualizatoo
 
 ## Interview Findings
 
