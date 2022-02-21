@@ -59,7 +59,7 @@ The criteria are as follows:
 
 |  |  Target Audience Category | Home Country | Age |
 |-----|-----|-----| ----- |
-| **Interviewee 1** | |||
+| **Interviewee 1** | Recent Graduate | India | 24 |
 | **Interviewee 2** | |||
 | **Interviewee 3** | |||
 
@@ -67,20 +67,20 @@ The criteria are as follows:
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-----|-----|-----| ----- |
-| **1.** From the title page, what do you hope to see in this storyboard? |  |  | |
-| **2.** Is topic of interest to you and do you have prior knowlege of it? |  |  | |
-| **3.** What were you surprised to find out? |  |  | |
-| **4.** Are you moved by each piece of information presented to you? |  |  | |
-| **5.** What changes, if any, would have had a bigger emotional impact on you? |  |  | |
-| **6.** Are the visuals representative of what they are trying to convey or do you think you are being misinformed? |  |  | |
-| **7.** Would you change anything wrt to the visuals that have been presented here? |  |  | |
-| **8.** What is your general reaction to the aesthetics of this storyboard? |  |  | |
-| **9.** What work for you and what do not work for you in this storyboard (i.e., what would you change?) |  |  | |
-| **10.** How loud is the call to action? |  |  | |
-| **11.** Will this presentation get you thinking about how you can be a part of saving the biodiversity? |  |  | |
-| **12.** Do you think there is an important component missing in the story that can tie to together in a better way? If yes, what additions can be made? |  |  | |
-| **13.** Is the overall narrative what you hoped to see? |  |  | |
-| **14.** Is there anything that I missed in my previous questions that you would like to address? |  |  | |
+| **1.** From the title page, what do you hope to see in this storyboard? | "I hope to see more information about wildlife conservation around the world." |  | |
+| **2.** Is topic of interest to you and do you have prior knowlege of it? | "This topic is is interest to me but I don't have any prior knowlegdge of it."  |  | |
+| **3.** What were you surprised to find out? | "I was surprised to find that global forest cover is disappearing at a rate of 1 football fields every 6 seconds. It was also interesting to note that there was a measure called the LPI and was surprised to see its rapid decline." |  | |
+| **4.** Are you moved by each piece of information presented to you? | "Moderately moved." |  | |
+| **5.** What changes, if any, would have had a bigger emotional impact on you? | "I don't have any inputs on this." |  | |
+| **6.** Are the visuals representative of what they are trying to convey or do you think you are being misinformed? | "I think they are conveying what they are meant to convey." |  | |
+| **7.** Would you change anything wrt to the visuals that have been presented here? | "I would remove the dots from the LPI graph and the decline in the global forest cover graph because it doesn't seem necessary to know where each year falls." |  | |
+| **8.** What is your general reaction to the aesthetics of this storyboard? | "Its very nice and concise and does not overlaod you with information." |  | |
+| **9.** What work for you and what do not work for you in this storyboard (i.e., what would you change?) | "The overall flow worked. I would prefer additional information on how we can help because you talk a lot about the consequences but not a lot about the possible remedies." |  | |
+| **10.** How loud is the call to action? | "It inspires a feeling of wanting to do and learn more about how we can remedy this situation." |  | |
+| **11.** Will this presentation get you thinking about how you can be a part of saving the biodiversity? | "Yes." |  | |
+| **12.** Do you think there is an important component missing in the story that can tie to together in a better way? If yes, what additions can be made? | "Maybe something something about how climate change also plays a role in this."  |  | |
+| **13.** Is the overall narrative what you hoped to see? | "Not really. I thought I would see information about what is being done to conserve wildlife" |  | |
+| **14.** Is there anything that I missed in my previous questions that you would like to address? | "Add brackets to references to help ideltify them more easily." |  | |
 
 # Changes to be implemented for part III
 ## Changes to visualizations
