@@ -44,15 +44,15 @@ The criteria are as follows:
 - Overall Aesthetics
 - Overall Narrative
 
-| Criterion | What I hope to achieve | Guiding Questions|
+| Criterion | What I hope to evaluate | Guiding Questions|
 |-----|-----|-----|
-|Relatability|
-|Clarity of Visualizations|
-|Emotional Appeal|
-|Lacking|
-|Persuaiveness|
-|Overall Aesthetics|
-|Overall Narrative|
+|Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview|
+|Emotional Appeal| To evaluate if the story arc I followed in designing my narrative invoke emotions as I had hoped it would|
+|Clarity of Visualizations| To evaluate if I chose visualizations that are easy to follow and if they are perceived as I want them to be|
+|Overall Aesthetics| To evalauate the overall visual appeal, tthemes and images that were used. 
+|Persuaiveness| To evaluate if the story is persuasive and if one can be expected to adopt the call to action when presented with it|
+|Lacking| To evaluate for the completeness of my story|
+|Overall Narrative| To obtain details of their final thoughs and recommendations|
 
 
 ### Interviewee descriptions
