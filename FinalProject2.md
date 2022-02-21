@@ -59,6 +59,9 @@ The criteria are as follows:
 
 ## Interview Findings
 
+| Evaluation Criteria   |  What I Hope to Evaluate | Guiding Questions |             
+| ----- | ----- | ----- |
+
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-----|-----|-----|
