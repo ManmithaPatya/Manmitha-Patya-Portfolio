@@ -44,7 +44,7 @@ The criteria are as follows:
 - Overall Aesthetics
 - Overall Narrative
 
-| Criterion | What I hope to evaluate | Guiding Questions|
+| Criterion | What I Hope to Evaluate | Guiding Questions|
 |-----|-----|-----|
 |Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview|
 |Emotional Appeal| To evaluate if the story arc I followed in designing my narrative invoke emotions as I had hoped it would|
