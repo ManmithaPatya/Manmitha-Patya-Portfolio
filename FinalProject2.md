@@ -59,13 +59,14 @@ The criteria are as follows:
 
 ## Interview Findings
 
+
 | Question   |  Interviewee1 | Interviewee-2 | Interviewee 3|            
 | ----- | ----- | ----- |
 
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
 |-----|-----|-----|
-| **1.** From the title page, what do you hope to see in this storyboard? | 
+| **1.** From the title page, what do you hope to see in this storyboard? | bmbm | bjj |
 
 # Changes to be implemented for part III
 ## Changes to visualizations
