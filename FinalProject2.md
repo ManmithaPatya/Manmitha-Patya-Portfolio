@@ -44,11 +44,11 @@ The criteria are as follows:
 - Overall Aesthetics
 - Overall Narrative
 
- Criterion   |                What I Hope to Evaluate                 |                Guiding Questions                
+ Evaluation Criteria   |                What I Hope to Evaluate                 |                Guiding Questions                
   ------------ | ------------- | -------------
 Relatability | To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview | **1.** From the title page, what do you hope to see in this storyboard?<br />**2.** Is topic of interest to you and do you have prior knowlege of it?<br />**3.** What were you surprised to find out?
 
- Criterion            |                What I Hope to Evaluate                   |                  Guiding Questions
+ Evaluation Criterion            |                What I Hope to Evaluate                   |                  Guiding Questions
 ---|---|---|
 Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview| 1. From the title page, what do you hope to see in this storyboard?<br />2. Is topic of interest to you and do you have prior knowlege of it?<br />3. What were you surprised to find out?
 Emotional Appeal| To evaluate if the story arc I followed in designing my narrative invokes emotions as I had hoped it would|
