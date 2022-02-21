@@ -43,10 +43,6 @@ The criteria are as follows:
 - Overall Aesthetics
 - Overall Narrative
 
-
-
-
-
 ### Interviewee descriptions
 
 ## Interview Findings
