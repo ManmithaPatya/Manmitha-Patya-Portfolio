@@ -57,23 +57,11 @@ The criteria are as follows:
 
 ### Interviewee descriptions
 
-#### Interviewee 1
-
-Target Audience Category:
-Home Country:
-Age:
-
-#### Interviewee 2
-
-Target Audience Category:
-Home Country:
-Age:
-
-#### Interviewee 3
-
-Target Audience Category:
-Home Country:
-Age:
+|  |  Target Audience Category | Home Country | Age |
+|-----|-----|-----| ----- |
+| **Interviewee 1** | |||
+| **Interviewee 2** | |||
+| **Interviewee 3** | |||
 
 ## Interview Findings
 
