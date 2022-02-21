@@ -36,12 +36,12 @@ In addition to professional features, I will also consider the following markers
 I will breakdown the interview questions that I will ask based on certain criteria that I hope to measure through user interviews. My interview questions will be loosely based on previously conducted user interviews for the course and general market research questions. 
 
 The criteria are as follows:
+- Relatability
 - Emotional Appeal
 - Clarity of Visualizations 
-- Relatability
+- Overall Aesthetics
 - Persuasiveness
 - Lacking 
-- Overall Aesthetics
 - Overall Narrative
 
 | Evaluation Criteria   |  What I Hope to Evaluate | Guiding Questions |             
@@ -83,7 +83,7 @@ The criteria are as follows:
 | **14.** Is there anything that I missed in my previous questions that you would like to address? | "Add brackets to references to help identify them more easily." |  | |
 
 # Changes to be implemented for part III
+## Content Changes
 ## Changes to visualizations
 ## Changes to Images
-## Changes to written content
 ## Overall changes: Narrative improvement/ storyline changes
