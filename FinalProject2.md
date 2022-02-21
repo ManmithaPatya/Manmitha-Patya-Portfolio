@@ -46,9 +46,7 @@ The criteria are as follows:
 
 | Criterion | What I Hope to Evaluate | Guiding Questions|
 |-----|-----|-----|
-|Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview| <li>1. From the title page, what do you hope to see in this storyboard?</li>
-<li>2. Is topic of interest to you and do you have prior knowlege of it?</li>
-<li>3. What were you surprised to find out?</li>|
+|Relatability| To evaluate whether the story being presented strikes a chord with the interviewee. This will help me measure if I have chosen the right representative to interview| <li>1. From the title page, what do you hope to see in this storyboard?</li><li>2. Is topic of interest to you and do you have prior knowlege of it?</li><li>3. What were you surprised to find out?</li>|
 |Emotional Appeal| To evaluate if the story arc I followed in designing my narrative invoke emotions as I had hoped it would|
 |Clarity of Visualizations| To evaluate if I chose visualizations that are easy to follow and if they are perceived as I want them to be|
 |Overall Aesthetics| To evalauate the overall visual appeal, tthemes and images that were used. 
