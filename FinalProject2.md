@@ -12,7 +12,12 @@ The link to my storyboard on Shorthand can be found [here](https://preview.short
 # User Research
 
 ## User Research Protocol
-what you hope to find during your user interviews
+As user research protocol, I will define the following:
+- the target audience for my story
+- my approach to identifying representative individuals to interview
+- my interview script 
+
+Based on these, I will provide an overview of the interview findings and explain the changes that will be implmeneted based on user feedback. 
 
 ### Ideal Candidate for the interview 
 Travelling jobs, etc
