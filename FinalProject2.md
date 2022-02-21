@@ -37,12 +37,23 @@ I will breakdown the interview questions that I will ask based on certain criter
 
 The criteria are as follows:
 - Emotional Appeal
-- Clarity of Visualizations and 
+- Clarity of Visualizations 
 - Relatability
 - Persuaiveness
 - Lacking 
 - Overall Aesthetics
 - Overall Narrative
+
+| Criterion | What I hope to achieve | Guiding Questions|
+|-----|-----|-----|
+|Relatability|
+|Clarity of Visualizations|
+|Emotional Appeal|
+|Lacking|
+|Persuaiveness|
+|Overall Aesthetics|
+|Overall Narrative|
+
 
 ### Interviewee descriptions
 
