@@ -59,6 +59,9 @@ The criteria are as follows:
 
 ## Interview Findings
 
+| Question | Interviewee 1 | Interviewee 2 | Interviewee 3 |
+| ----- | ----- | ----- |
+
 # Changes to be implemented for part III
 ## Changes to visualizations
 ## Changes to Images
