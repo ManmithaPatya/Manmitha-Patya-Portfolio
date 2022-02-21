@@ -29,8 +29,8 @@ Based on my definition of target audience, I will interview those candidates who
 When choosing an individual who is working in an environment focused organization, I will interview them who have a travelling job. This is because they are the ones who are on-ground and not confined to an office room when making impactful decisions. 
 
 In addition to professional features, I will also consider the following markers when choosing an individual:
-- Home Country 
-- Age
+- Home Country (To evaluate if opinions about the topic change based on country of origin?)
+- Age (To evaluate if opinions about topic change based on age?)
 
 ### Interview Script
 I will breakdown the interview questions that I will ask based on certain criteria that I hope to measure through user interviews. My interview questions will be loosely based on previously conducted user interviews for the course and general market research questions. 
@@ -56,6 +56,24 @@ The criteria are as follows:
 
 
 ### Interviewee descriptions
+
+#### Interviewee 1
+
+Target Audience Category:
+Home Country:
+Age:
+
+#### Interviewee 2
+
+Target Audience Category:
+Home Country:
+Age:
+
+#### Interviewee 3
+
+Target Audience Category:
+Home Country:
+Age:
 
 ## Interview Findings
 
