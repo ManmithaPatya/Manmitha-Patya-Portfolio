@@ -28,7 +28,9 @@ Based on my definition of target audience, I will interview those candidates who
 
 When choosing an individual who who is working in an environment focused organization, I will interview them who have a travelling job. This is because they are the ones who are on-ground and not confined to an office room when making impactful decisions. 
 
-The sub
+In addition to professional features, I will also consider the following markers when choosing an individual:
+- Home Country 
+- Age
 
 ### Interview Script
 
