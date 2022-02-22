@@ -83,6 +83,7 @@ The criteria are as follows:
 # Changes to be Implemented for Part III, the Final Phase of the Project
 The following are the changes I will be making in the final stage of the project. They are listed here based on previously defined evaluation criteria. 
 ## Content Changes
+- Change the title to something more relevant to the content (i.e. loss of biodiversity)
 - The content, while is intriguing and important requires a lot of active comprehension which is not what one would expect in a presentation. In order to ensure that the viewers don't lose their interest in the presentation, changes will be made such that the information is represented as bullet points.
 - Add titles to all sections so that important "call-out" points are noted in case an audience member is not reading through all content.
 - Add a few more connectors between sections: E.g. Wildlife is flora and fauna. So, we first look at decline is flora and then decline in fauna (in the section species extinction).
