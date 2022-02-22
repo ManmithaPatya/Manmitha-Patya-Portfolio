@@ -57,7 +57,7 @@ The criteria are as follows:
 
 |  |  Target Audience Category | Home Country | Age |
 |-----|-----|-----| ----- |
-| **Interviewee 1** | Recent Graduate | India | 24 |
+| **Interviewee 1** | Recent graduate | India | 24 |
 | **Interviewee 2** | student in a field of environmental studies |Amsterdam|30|
 | **Interviewee 3** | Intern at Environmental Defense Fund |USA|26|
 
