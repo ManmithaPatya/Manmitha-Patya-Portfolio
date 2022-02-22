@@ -1,5 +1,4 @@
 ##### [Go to Project Part 1](FinalProject1.md)
-
 ##### [Go To Project Part 3](FinalProject3.md)
 
 # Final Project: Part II
@@ -54,14 +53,13 @@ The criteria are as follows:
 **Lacking** | To evaluate for the completeness of my story. | **12.** Do you think there is an important component missing in the story that can tie to together in a better way? If yes, what additions can be made? |
 **Overall Narrative** | To obtain details of their final thoughts and recommendations. | **13.** Is the overall narrative what you hoped to see? <br /> **14.** Is there anything that I missed in my previous questions that you would like to address? |
 
-
 ## Interviewee descriptions
 
 |  |  Target Audience Category | Home Country | Age |
 |-----|-----|-----| ----- |
 | **Interviewee 1** | Recent Graduate | India | 24 |
-| **Interviewee 2** | |||
-| **Interviewee 3** | |||
+| **Interviewee 2** | student in a field of environmental studies |Amsterdam|30|
+| **Interviewee 3** | Intern at Environmental Defense Fund |USA|26|
 
 ## Interview Findings
 
@@ -82,8 +80,21 @@ The criteria are as follows:
 | **13.** Is the overall narrative what you hoped to see? | "Not really. I thought I would see information about what is being done to conserve wildlife" | "Yes."  |"To some extent, yes." |
 | **14.** Is there anything that I missed in my previous questions that you would like to address? | "Add brackets to references to help identify them more easily." | "I lost focus from species Extinction but looking at famous extinctions caused by man caught my attention but dropped again as that slide ended." |"I don't think so." |
 
-# Changes to be implemented for part III
+# Changes to be implemented for part III, the final phase of the project
+The following are the changes I will be making in the final stage of the project. They are listed here based on previously defined evaluation criteria. 
 ## Content Changes
+- The content, while is intriguing and important requires a lot of active comprehension which is not what one would expect in a presentation. In order to ensure that the viewers don't lose their interest in the presentation, changes will be made such that the information is represented as bullet points.
+- Add titles to all sections so that important "call-out" points are noted in case an audience member is not reading through all content.
+- Add a few more connectors between sections: E.g. Wildlife is flora and fauna. So, we first look at decline is flora and then decline in fauna (in the section species extinction).
+- Balance content in the Call-to-Action section between the two questions mentioned.
+- Provide a little more information about how an individual is problematic and how an individual can impact change. 
 ## Changes to visualizations
+- In the trends of forest cover, remove the dots from the trend line.
+- In the plot for species added to the endangered list, highlight the year 1994 and grey the others out.
+- Change the background of the visualizations to a darker color. 
 ## Changes to Images
-## Overall changes: Narrative improvement/ storyline changes
+- Remove the last image in the section "Species Extinction" because the image is scrolling through very fast.
+
+##### [Go to Project Part 1](FinalProject1.md)
+##### [Go To Project Part 3](FinalProject3.md)
+
