@@ -35,4 +35,4 @@ In the first phase of the project, I will elaborate of the topic I have chosen, 
 ### [Part 2: Final Project Wireframes / Storyboards and User Research](FinalProject2.md)
 In the second phase of the project, I will use the sketches developed in phase 1 to further develop my story outline and relevant components visually through the use of wireframing / storyboards. I will also conduct user research to form conclusions on what needs to be changes to make the final phase more effective.  
 
-### [Part 3](FinalProject3.md)
+### [Part 3: The final deliverable](FinalProject3.md)
