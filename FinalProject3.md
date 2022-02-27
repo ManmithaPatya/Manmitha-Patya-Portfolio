@@ -2,10 +2,12 @@
 ##### [Go To Project Part 2](FinalProject2.md)
 
 # Final Project: Part III
+## Project Overview
 
-## Overview
+### Part I
+### Part II
 ## Final Deliverable
-## Intended Audience 
 ## Changes from Part II
+## Intended Audience 
 ## Further Development
 ## References
