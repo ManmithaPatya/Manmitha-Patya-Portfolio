@@ -27,8 +27,12 @@ In addition to all the topic-related changes, I also brought about uniformity to
 - Finally, in the bucket of **Changes to Images**, I removed the third image in the scrollmation of the section 'Species Extinction' so that the images did not change too quickly.
 
 ## Final Deliverable
+My final project website can be viewed at [Humanity's Destruction of Wildlife](https://preview.shorthand.com/gq7M1RRQo2L24qyV). This is the final website that I was able to build after making required changes to my storyline that was defined in part I and incorporating feedback from user interviews that were conducted in part II. 
 
-## Changes from Part II
 ## Intended Audience 
+In part II of the project, I defined the target audience as anyone who hopes to be part of a positive change in the environment. I aimed the project at individuals across the globe so that the learnings from the projects can bring them together to help conserve the natural world. I went further and reduced the scope the audience to those individuals who are recent graduates, current students in a field of environmental students or those individuals who have worked or are currently working with any environment/ wildlife focused organization.  
+
+However, in hindsight, after reflecting on the feedback from the user research, I realised that my audience pool should be individuals in various local communities. This is because I aim to provide enough information and resources so that individuals can be mobilized to take initiatives to conserve wildlife starting in their immediate surroundings.   
+
 ## Further Development
 ## References
