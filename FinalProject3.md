@@ -35,4 +35,15 @@ In part II of the project, I defined the target audience as anyone who hopes to 
 However, in hindsight, after reflecting on the feedback from the user research, I realised that my audience pool should be individuals in various local communities. This is because I aim to provide enough information and resources so that individuals can be mobilized to take initiatives to conserve wildlife starting in their immediate surroundings.   
 
 ## Further Development
-## References
+## Data Sources and Other References
+The following were the primary data sources that were finalized in part I of the project:
+- This dataset from [Our World in Data](https://ourworldindata.org/forest-area) was used to show the decline in forest area through the years. The dataset can be viewed [here](forest-area-km.csv)
+- This dataset from [Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/species-listings-by-year-totals) was used to build the visualization of the number of species added to the endangered list annually. The dataset can be viewed [here](species-listings-by-year-totals-report.csv).
+- This dataset from [Our World in Data](: https://ourworldindata.org/grapher/global-living-planet-index?time=1971..latest) was used to show the changes in the Living Plant Index by each year. The data can be viewed [here](global-living-planet-index.csv)
+- A data table built from the visualization in [Our World in Data](https://ourworldindata.org/threats-to-wildlife) was used to make the visualization which tells us the number of species in danger divided by the driving forces. The dataset can be found [here](Endangerment_Reason.xlsx).
+- This dataset from [World Wildlife Org](https://www.worldwildlife.org/about/financials) was used to shed light on the annual expenditure for conservation activities. The data set can be found [here](Expenditure_Annual.xlsx).
+
+The following are sources of key information used in this project
+- From this website by the [National Museum of Natural History](https://naturalhistory.si.edu/education/teaching-resources/paleontology/extinction-over-time), I was able to obtain information about Famous extinctions caused by man
+- From this website by the [Animal Welfare Institute](https://awionline.org/content/what-you-can-do-wildlife#:~:text=One%20of%20the%20easiest%20and,and%20taking%20out%20old%20fences), I was able to obtain information about what individuals can do ar a community level to help conserve wildlife
+- From this website by [Sciencebuzz](https://www.sciencebuzz.com/our-sixth-mass-extinction/), I was able to obtain information about the sixth mass extinction
