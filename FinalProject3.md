@@ -18,8 +18,14 @@ Before starting part II of the project, I made a decision to use [Shorthand](htt
 After this, I defined the audience for the project, established the approach to identifying representative individuals to interview and designed the interview questions. Once this user research protocol was in place, I shortlisted the interviewees so that they closely resemble the intended audience. 
 After conducting the interviews and gathering all the findings, I made decisions on all the changes that were required to be implemented in part III.
 
+### Part III: Explained in terms of changes from Part II
+The user research formed the basis of all the changes that were implemented in part III. They are categorized into three main buckets: **Content Changes, Changes to Visualizations and Changes to Images**
 
-### Part III: Explained interms of changes from Part II
+- **Content Changes** was the key area in which a lot of feedback was provided. I started off by changing the title from 'Wildlife Conservation‘ to 'Humanity's Destruction of Wildlife' so that accurate expectations are set for those viewing the website for the first time. I also reduced the written content and focused only on that information which serves not only as the "call-out" point but also reduces the wordiness. Which this change, I hope to keep the interest of the viewer from wavering. And finally, in the call to action section, I tried balancing out the information between the two questions of 'Why is it important to us?' and 'What can we do to help?' by adding information about the steps an individual can take at a community level so that they are a part of a larger global movement. 
+In addition to all the topic-related changes, I also brought about uniformity to the content cosmetics. From using two colors to highlight key ideas, I switched to using only the color orange to highlight all that is important.  
+- In terms of **Changes to Visualizations**, I started by removing the markers (dots) on the plots of 'Decline in Global Forest Cover' and 'Declining Trends of the Living Planet Index'. This was because the interviewees believed it wasn't important for them to know the pointers for numbers. They just needed to know the declining trend. The change I made was to the visualization of '1994 the Worst Year for Wildlife Conservation?' where I used grey for all the years except 1994 where I used green since that was the year I wanted to draw the viewers attention to. 
+- Finally, in the bucket of **Changes to Images**, I removed the third image in the scrollmation of the section 'Species Extinction' so that the images did not change too quickly.
+
 ## Final Deliverable
 ## Changes from Part II
 ## Intended Audience 
