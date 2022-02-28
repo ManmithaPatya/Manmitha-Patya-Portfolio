@@ -27,6 +27,7 @@ In addition to all the topic-related changes, I also brought about uniformity to
 - Finally, in the bucket of **Changes to Images**, I removed the third image in the scrollmation of the section 'Species Extinction' so that the images did not change too quickly.
 
 ## Final Deliverable
+
 ## Changes from Part II
 ## Intended Audience 
 ## Further Development
