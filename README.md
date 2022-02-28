@@ -36,3 +36,4 @@ In the first phase of the project, I will elaborate of the topic I have chosen, 
 In the second phase of the project, I will use the sketches developed in phase 1 to further develop my story outline and relevant components visually through the use of wireframing / storyboards. I will also conduct user research to form conclusions on what needs to be changes to make the final phase more effective.  
 
 ### [Part 3: The final deliverable](FinalProject3.md)
+In the final deliverable of the project, I will provide an overview of all the steps I took to build the final project website, an overview of the intended audience and will final share the final project website with all the changes implemented based on user feedback.
