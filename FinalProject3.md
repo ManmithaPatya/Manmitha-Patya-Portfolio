@@ -35,8 +35,10 @@ In part II of the project, I defined the target audience as anyone who hopes to 
 However, in hindsight, after reflecting on the feedback from the user research, I realised that my audience pool should be individuals in various local communities. This is because I aim to provide enough information and resources so that individuals can be mobilized to take initiatives to conserve wildlife starting in their immediate surroundings.   
 
 ## Further Development
-In the first part, I talk about famous consevationists. This is because I wanted to show how ordinary people can make a global impact with the right goals and right strategies. However, I did not include it in my storyboard and in my final submission because it made me feel like I was going away from topic and the story arc. 
-Going ahead, this project can be developed futher on the path of conservationists to map out the steps they have taken in order to see how others can follow suit  
+In the first part, I talk about famous consevationists. This is because I wanted to show how ordinary people can make a global impact with careful thought, the right approach and impactful actions. 
+
+However, this was not included in my final deliverable. This is because it started building a sub-plot in the storyline which was highlighting the impact of humans as opposed to the negative effects on wildlife. 
+Going ahead, this project can be further developed on the path of conservationists to map out their steps so that individuals can learn more about how they can be a part of a global movement.
 
 ## Data Sources and Other References
 
