@@ -57,3 +57,7 @@ The following are sources of key information used in this project
 
 ### Image Sources
 All the images used on shorthand were obtained from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/). 
+
+
+##### [Go to Project Part 1](FinalProject1.md)
+##### [Go To Project Part 2](FinalProject2.md)
